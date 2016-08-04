@@ -1,0 +1,31 @@
+_repo: The-Story-of-the-Mormons-from-the-Date-of-Their-Origin-to-the-Year-1901_2443
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 2443/2443-h/images/titlepage.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Linn, William Alexander
+    birthdate: 1846
+    deathdate: 1917
+    gutenberg_agent_id: '912'
+    url: http://www.gutenberg.org/2009/agents/912
+description: ''
+gutenberg_bookshelf: Latter Day Saints
+gutenberg_issued: '2000-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2443'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Utah -- History'
+- !lcc 'BX'
+- !lcsh 'Mormons -- History'
+- GITenberg
+title: The Story of the Mormons, from the Date of Their Origin to the Year 1901
+url: http://www.gutenberg.org/ebooks/2443
